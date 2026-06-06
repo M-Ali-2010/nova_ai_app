@@ -1,4 +1,3 @@
-div align="center">
 
 # ✨ Nova AI Studio
 
